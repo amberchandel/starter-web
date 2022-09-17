@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Amber
+Shilpi
+Saif
+Lucky
 
 # THANKS
 
